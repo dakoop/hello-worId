@@ -1,4 +1,4 @@
 hello-worId
 ===========
 
-My first repository on GitHub.
+Woohoo! My first repository on GitHub.
